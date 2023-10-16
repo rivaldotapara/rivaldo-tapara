@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'rivaldo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56B1CEB12BCB4222805CA8923092CDD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AE2F21A83F5249299EE6D251F120385B }}
           package: .
